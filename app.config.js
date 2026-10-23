@@ -7,6 +7,11 @@ export default {
   icon: './assets/icon.png',
   userInterfaceStyle: 'automatic',
   newArchEnabled: true,
+  web: {
+    bundler: 'metro',
+    output: 'single',
+    favicon: './assets/adaptive-icon.png'
+  },
   android: {
     adaptiveIcon: {
       foregroundImage: './assets/adaptive-icon.png',

@@ -1,4 +1,4 @@
-import { View, StyleSheet } from 'react-native'
+import { View, StyleSheet, Platform } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme } from 'react-native-paper'
 import * as Haptics from 'expo-haptics'
@@ -23,7 +23,9 @@ export function Calculator() {
     } = useCalculator()
 
     const withHaptic = (action) => () => {
-        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light)
+        if (Platform.OS !== 'web') {
+            Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light)
+        }
         action()
     }
 

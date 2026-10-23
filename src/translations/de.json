@@ -12,7 +12,8 @@
 		"unlock": "Entsperren",
 		"settings": "Einstellungen",
 		"theme": "Farbthema",
-		"about": "Über die App"
+		"about": "Über die App",
+		"calculator": "Taschenrechner"
 	},
 	"date": {
 		"created": "Kreiert:",
@@ -97,6 +98,7 @@
 	},
 	"drawer": {
 		"notes": "Notizen",
-		"categories": "Kategorien"
+		"categories": "Kategorien",
+		"calculator": "Taschenrechner"
 	}
 }

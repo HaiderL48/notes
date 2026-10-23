@@ -12,7 +12,8 @@
 		"unlock": "Kilidi aç",
 		"settings": "Ayarlar",
 		"theme": "Renk teması",
-		"about": "Uygulama hakkında"
+		"about": "Uygulama hakkında",
+		"calculator": "Hesap makinesi"
 	},
 	"date": {
 		"created": "Oluşturuldu:",
@@ -83,6 +84,7 @@
 	},
 	"drawer": {
 		"notes": "Notlar",
-		"categories": "Kategoriler"
+		"categories": "Kategoriler",
+		"calculator": "Hesap makinesi"
 	}
 }

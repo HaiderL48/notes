@@ -14,7 +14,8 @@
 		"sort": "Ordenar por",
 		"settings": "Ajustes",
 		"theme": "Tema de color",
-		"about": "Acerca de la app"
+		"about": "Acerca de la app",
+		"calculator": "Calculadora"
 	},
 	"date": {
 		"created": "Creado:",
@@ -104,6 +105,7 @@
 	"drawer": {
 		"notes": "Notas",
 		"categories": "Categorías",
-		"trash": "Papelera"
+		"trash": "Papelera",
+		"calculator": "Calculadora"
 	}
 }

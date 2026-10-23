@@ -12,7 +12,8 @@
 		"unlock": "Desbloquear",
 		"settings": "Configurações",
 		"theme": "Cor do tema",
-		"about": "Sobre o aplicativo"
+		"about": "Sobre o aplicativo",
+		"calculator": "Calculadora"
 	},
 	"date": {
 		"created": "Criado:",
@@ -83,6 +84,7 @@
 	},
 	"drawer": {
 		"notes": "Notas",
-		"categories": "Categorias"
+		"categories": "Categorias",
+		"calculator": "Calculadora"
 	}
 }

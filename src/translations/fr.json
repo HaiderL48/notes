@@ -12,7 +12,8 @@
 		"unlock": "Déverrouiller",
 		"settings": "Paramètres",
 		"theme": "Thème",
-		"about": "À propos de l'app"
+		"about": "À propos de l'app",
+		"calculator": "Calculatrice"
 	},
 	"date": {
 		"created": "Crée :",
@@ -83,6 +84,7 @@
 	},
 	"drawer": {
 		"notes": "Notes",
-		"categories": "Catégories"
+		"categories": "Catégories",
+		"calculator": "Calculatrice"
 	}
 }

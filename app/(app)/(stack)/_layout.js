@@ -45,6 +45,12 @@ export default function StackLayout() {
                 }}
             />
             <Stack.Screen
+                name='calculator/index'
+                options={{
+                    title: t('title.calculator')
+                }}
+            />
+            <Stack.Screen
                 name='(settings)'
                 options={{
                     headerShown: false

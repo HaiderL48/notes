@@ -12,7 +12,8 @@
 		"unlock": "ロック解除",
 		"settings": "設定",
 		"theme": "カラーテーマ",
-		"about": "このアプリについて"
+		"about": "このアプリについて",
+		"calculator": "電卓"
 	},
 	"date": {
 		"created": "作成日時:",
@@ -97,6 +98,7 @@
 	},
 	"drawer": {
 		"notes": "メモ",
-		"categories": "カテゴリー"
+		"categories": "カテゴリー",
+		"calculator": "電卓"
 	}
 }

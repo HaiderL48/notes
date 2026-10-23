@@ -22,6 +22,10 @@ export function DrawerItems() {
                     path={ROUTES.TRASH}
                     label={t('drawer.trash')}
                 />
+                <DrawerScreen
+                    path={ROUTES.CALCULATOR}
+                    label={t('drawer.calculator')}
+                />
             </View>
         </DrawerContentScrollView>
     )

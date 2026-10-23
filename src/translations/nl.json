@@ -12,7 +12,8 @@
 		"unlock": "Ontgrendel",
 		"settings": "Instellingen",
 		"theme": "Thema",
-		"about": "Over de app"
+		"about": "Over de app",
+		"calculator": "Rekenmachine"
 	},
 	"date": {
 		"created": "Gemaakt op:",
@@ -96,6 +97,7 @@
 	},
 	"drawer": {
 		"notes": "Notities",
-		"categories": "Categorieën"
+		"categories": "Categorieën",
+		"calculator": "Rekenmachine"
 	}
 }

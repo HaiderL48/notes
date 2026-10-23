@@ -12,7 +12,8 @@
 		"unlock": "فك القُفْل",
 		"settings": "الإعدادات",
 		"theme": "ألوان النسق",
-		"about": "حول التطبيق"
+		"about": "حول التطبيق",
+		"calculator": "حاسبة"
 	},
 	"date": {
 		"created": "تاريخ الإنشاء:",
@@ -83,6 +84,7 @@
 	},
 	"drawer": {
 		"notes": "ملاحظات",
-		"categories": "فئات"
+		"categories": "فئات",
+		"calculator": "حاسبة"
 	}
 }

@@ -12,7 +12,8 @@
 		"unlock": "Lås upp",
 		"settings": "Inställningar",
 		"theme": "Färgtema",
-		"about": "Om appen"
+		"about": "Om appen",
+		"calculator": "Kalkylator"
 	},
 	"date": {
 		"created": "Skapad:",
@@ -83,6 +84,7 @@
 	},
 	"drawer": {
 		"notes": "Anteckningar",
-		"categories": "Kategorier"
+		"categories": "Kategorier",
+		"calculator": "Kalkylator"
 	}
 }

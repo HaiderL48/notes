@@ -12,7 +12,8 @@
 		"unlock": "Odemknout",
 		"settings": "Nastavení",
 		"theme": "Barevné schéma",
-		"about": "O aplikaci"
+		"about": "O aplikaci",
+		"calculator": "Kalkulačka"
 	},
 	"date": {
 		"created": "Vytvořeno:",
@@ -83,6 +84,7 @@
 	},
 	"drawer": {
 		"notes": "Poznámky",
-		"categories": "Kategorie"
+		"categories": "Kategorie",
+		"calculator": "Kalkulačka"
 	}
 }
